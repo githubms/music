@@ -1,6 +1,6 @@
 # music
 
-repo for my music configurations
+repo for my music app configurations - mostly for iOS & iPadOS apps like AUM, Group the Loop
 
 AUM session:  I added automations to my AUM set-up so that the app is a little easier to use on iPhone where screen real estate is limited.  Here's a few of the great features from AUM I used:
  - emojis as channel names
